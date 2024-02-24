@@ -59,3 +59,7 @@ If you'd like to deviate from the columns in the spreadsheet and would like supp
   - your JSON key file is generated and downloaded to your machine (__it is the only copy!__)
   - note your service account's email address (also available in the JSON key file)
 6. Share the google sheet doc (or docs) with your service account using the email noted above
+
+### Running the app
+
+`npm run start`
